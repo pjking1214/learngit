@@ -6,6 +6,7 @@ include <stdio.h>
 int main(int argc, char* argv[])
 {
 	printf("Hello World!\n");
+	printf("Do this for test git.\n");
 	return 0;
 }
 
